@@ -1,0 +1,119 @@
+.home{
+
+}
+
+.navbar-text{
+
+}
+
+
+.mini-table{
+  background-color: LavenderBlush;
+}
+
+p{
+  color: black;
+  font-family: "Montserrat-Thin";
+  font-size:1rem;
+}
+
+th{
+  font-family: "Montserrat-Thin";
+  font-size:1.5rem;
+}
+
+.special-th{
+  font-family: "Montserrat-Thin";
+  font-size:1.2rem;
+}
+
+td{
+  font-family: "Montserrat-Thin";
+}
+
+h3{
+  font-family: "Montserrat-Thin";
+  font-style: italic;
+}
+
+h5{
+  font-family: "Montserrat-Thin";
+  font-style: italic;
+}
+
+h1{
+    font-family: "Montserrat-Thin";
+    font-style: italic;
+}
+
+h4{
+    font-family: "Montserrat-Thin";
+    font-style: italic;
+}
+
+/* about */
+#about{
+    background-color: LavenderBlush;
+  /* background-color: LightCyan; */
+  /* margin: 20px 20px; */
+}
+
+/* services */
+#services{
+  /* background-color: LavenderBlush; */
+  background-color: LightCyan;
+  margin: 20px 20px;
+}
+
+/* experts */
+#experts{
+    background-color: LavenderBlush;
+  /* background-color: LightCyan; */
+  margin: 20px 20px;
+}
+
+#gallery{
+  /* background-color: LavenderBlush; */
+  background-color: LightCyan;
+  margin: 20px 20px;
+}
+
+/* Testimonials */
+#testimonials{
+  padding: 7% 15%;
+    background-color: LavenderBlush;
+  /* background-color: #ef8172; */
+  /* background-color: LightCyan; */
+  margin: 20px 20px;
+}
+
+.appointments{
+  /* background-color: silver; */
+  background-color: LightCyan;
+  margin: 20px 20px;
+}
+
+
+hr{
+  border-style: dotted;
+}
+
+.section-padding{
+border: 20px;
+}
+
+
+.expert-image{
+  height: 400px;
+  width: 400px;
+}
+
+.image1{
+  margin: 20px 20px;
+  height: 1200px;
+  width: 1850px;
+}
+
+.gallery-box{
+    margin: 20px 20px;
+}
